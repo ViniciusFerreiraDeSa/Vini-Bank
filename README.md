@@ -1,9 +1,16 @@
-<p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
+<h1 align="center"> VINI BANK 💸</h1>
 
+<div align="center">
+
+![image](https://github.com/ViniciusFerreiraDeSa/Vini-Bank/assets/125524394/60fdfb24-e2bb-4e27-9840-c110107c4521)
+
+
+</div>
 <hr>
+<p aling = "justify">Esse projeto o HTML e CSS3 ja estavam desenvolvido, eu só alterei algumas coisas, como nome e coloquei umas imagem a mais que é o detalhe para mim!</p>
+<p aling="center">Link do projeto <a href="https://vini-bank.vercel.app/index.html" target= "_blank">aqui</a> </p>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
+
 
 ## Tecnologias utilizadas durante o curso
 * JavaScript
