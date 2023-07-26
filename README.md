@@ -1,2 +1,13 @@
-# Vini-Bank
-Projeto aplicando conhecimentos em Javascript, usando estrutura de repetições, functions assíncronas e não assíncronas, manipulando o document e usando data attributes
+<p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
+
+<hr>
+
+<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
+<p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
+
+## Tecnologias utilizadas durante o curso
+* JavaScript
+
+## Tecnologias utilizadas no projeto
+* HTML
+* CSS
